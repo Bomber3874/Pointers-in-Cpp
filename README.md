@@ -64,23 +64,23 @@ Pointer Safety
 
 3. Practical Applications
 
-    String Manipulation: Pointers efficiently traverse C-style strings
-
-    Dynamic Structures: Essential for linked lists, trees, and graphs
-
-    Memory Efficiency: Reduce data copying in function calls
-
-    Hardware Access: Used in embedded systems programming
+        String Manipulation: Pointers efficiently traverse C-style strings
+    
+        Dynamic Structures: Essential for linked lists, trees, and graphs
+    
+        Memory Efficiency: Reduce data copying in function calls
+    
+        Hardware Access: Used in embedded systems programming
 
 4. Common Pitfalls
 
-    Memory leaks (forgetting delete)
-
-    Dangling pointers (using pointers after memory is freed)
-
-    Buffer overflows (incorrect pointer arithmetic)
-
-    Type mismatches (assigning wrong pointer types)
+        Memory leaks (forgetting delete)
+    
+        Dangling pointers (using pointers after memory is freed)
+    
+        Buffer overflows (incorrect pointer arithmetic)
+    
+        Type mismatches (assigning wrong pointer types)
    
 # Algorithms & Implementation
 
