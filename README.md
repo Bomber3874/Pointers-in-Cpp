@@ -135,7 +135,8 @@ Pointer Safety
 Conclusion
 
 This experiment successfully demonstrated key pointer operations in C++:
-✔ Pointer arithmetic (addition, subtraction, increment)
-✔ Array reversal using pointer traversal
-✔ String manipulation with pointers
-✔ Efficient palindrome checking using two-pointer technique
+
+        ✔ Pointer arithmetic (addition, subtraction, increment)
+        ✔ Array reversal using pointer traversal
+        ✔ String manipulation with pointers
+        ✔ Efficient palindrome checking using two-pointer technique
