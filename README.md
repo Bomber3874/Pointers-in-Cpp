@@ -22,7 +22,7 @@ To understand and implement pointer operations in C++, including:
 
 # Theory
 
-1. Introduction to Pointers
+# 1. Introduction to Pointers
 
 Pointers are variables that store memory addresses rather than values. They enable:
 
@@ -36,7 +36,7 @@ Pointers are variables that store memory addresses rather than values. They enab
 
     Passing arguments by reference to functions
 
-2. Key Pointer Concepts
+# 2. Key Pointer Concepts
 
 Pointer Arithmetic
 
@@ -62,7 +62,7 @@ Pointer Safety
 
     Avoid dangling pointers (pointers to deleted memory)
 
-3. Practical Applications
+# 3. Practical Applications
 
         String Manipulation: Pointers efficiently traverse C-style strings
     
@@ -72,7 +72,7 @@ Pointer Safety
     
         Hardware Access: Used in embedded systems programming
 
-4. Common Pitfalls
+# 4. Common Pitfalls
 
         Memory leaks (forgetting delete)
     
